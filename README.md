@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm ANGUILET Joan-Yves Darys</h1>
-<h3 align="center">Analyst Engineer | Data Scientist</h3>
+<h1 align="center">Hi there 👋, I'm ANGUILET Joan-Yves Darys</h1>
+<h3 align="center">Analyst Engineer | Data Scientist with a Passion for Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darys21&label=Profile%20views&color=0e75b6&style=flat" alt="darys21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darys21" alt="darys21" /></a> </p>
 
-- 🔭 I’m currently working at **Maersk Line Senegal as a Automation Specialist**
+- 🔭 Currently, I'm driving automation projects at **Maersk Line Senegal** as an Automation Specialist.
+  
+- 🌍 Passionate about leveraging data science to solve real-world challenges, particularly in emerging markets.
 
-- 👯 I’m looking to collaborate on **Any project where i can add my sauce**
+- 👯 I'm eager to collaborate on projects where I can bring creativity and data-driven insights to the table.
+
+- 🌱 Always learning and exploring new tools and technologies to stay ahead in the data science field.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
