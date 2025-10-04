@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darys21" alt="darys21" /></a> </p>
 
-- 🔭 Currently, I'm driving automation projects at **Maersk Line Senegal** as an Automation Specialist.
+- 🔭 Currently, I'm driving AI projects at **ZA-AI** as an AI Engineer.
   
 - 🌍 Passionate about leveraging data science to solve real-world challenges, particularly in emerging markets.
 
